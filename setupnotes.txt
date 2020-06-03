@@ -1,1 +1,13 @@
+## To Install seleniu stand alone inside the project folder
 npm install --save-dev webdriverio selenium-standalone
+
+ls ./node_modules/.bin
+
+node_modules/.bin./selenium-standalone
+
+##We need to install selenium standlone
+node_modules/.bin./selenium-standalone install
+
+## To start the standalone we do it using
+
+node_modules/.bin./selenium-standalone start
